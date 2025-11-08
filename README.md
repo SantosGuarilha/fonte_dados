@@ -7,6 +7,10 @@
 # Atividade: Venda de Sorvete Colab
 <img width="1589" height="846" alt="image" src="https://github.com/user-attachments/assets/e3f465b8-bb6e-42ac-bb20-54956ea04e68" />
 
-# Aula de Fontes de Indormações e Bancos de Dados
+# Aula de Fontes de Informações e Bancos de Dados
 # Atividade: Salary Colab
 <img width="1015" height="627" alt="image" src="https://github.com/user-attachments/assets/f2295d0f-e98e-4d79-9ce3-2ca1102daf33" />
+
+# Aula de Fontes de Informações e Banco de Dados
+# Atividade: Planilha linha Regressão "SALARY"
+<img width="1903" height="918" alt="IMAGEM_REGRESSAO_LINEAR_SALARY_EXCEL" src="https://github.com/user-attachments/assets/82120cf5-a4e9-4931-8c58-cf8c0e4ae18d" />
