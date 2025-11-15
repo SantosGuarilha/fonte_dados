@@ -1,11 +1,12 @@
 # banco_dados
 # Aula de Fontes de Informações e Banco de Dados
-# Atividade: Apresentação em grupo; utilizamos o software Power Point
+# Atividade 1: Apresentação em grupo; utilizamos o software Power Point
 <img width="1359" height="765" alt="image" src="https://github.com/user-attachments/assets/10d3b72d-0e11-4aa4-9fe2-751c62ad77db" />
 
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Aula VTI TABELA DINÂMICA
+# Atividade 2: VTI TABELA DINÂMICA
+Nessa tabela contém trabalhos com fórmulas: CONT.VALORES, MÁXOMOSES, ÍNDICE.
 <img width="1181" height="764" alt="Captura de tela 2025-11-14 214308" src="https://github.com/user-attachments/assets/86a15a0d-def7-41d3-94c7-5e05b151ac83" />
 
 
