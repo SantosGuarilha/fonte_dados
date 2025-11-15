@@ -5,19 +5,18 @@
 
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Atividade 2: VTI TABELA DINÂMICA
-Nessa tabela contém trabalhos com fórmulas: CONT.VALORES, MÁXOMOSES, ÍNDICE.
+# Atividade 2: VTI TABELA DINÂMICA GRAFICO
 <img width="1181" height="764" alt="Captura de tela 2025-11-14 214308" src="https://github.com/user-attachments/assets/86a15a0d-def7-41d3-94c7-5e05b151ac83" />
 
 
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Aula VTI CIDADES FORMULAS: CONTI.VALORES/ MÁXIMOSES/ ÍNDICE.
+# Atividade 3: VTI CIDADES FORMULAS: CONTI.VALORES/ MÁXIMOSES/ ÍNDICE.
 <img width="1050" height="753" alt="Captura de tela 2025-11-14 215230" src="https://github.com/user-attachments/assets/023403dc-56a4-4fd2-be49-c88440da2986" />
 
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Aula Tratamento de dados POWER BI
+# Atividade: Tratamento de dados POWER BI
 [Bandeiras_Paises.xlsx](https://github.com/user-attachments/files/23557573/Bandeiras_Paises.xlsx)
 
 
