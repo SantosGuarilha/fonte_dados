@@ -5,13 +5,13 @@
 
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Atividade 2: VTI TABELA DINÂMICA GRAFICO
+# Atividade 2: BANCO DE DADOS VTI: TABELA DINÂMICA GRAFICO CIDADES PAULISTAS.
 <img width="1181" height="764" alt="Captura de tela 2025-11-14 214308" src="https://github.com/user-attachments/assets/86a15a0d-def7-41d3-94c7-5e05b151ac83" />
 
 
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Atividade 3: VTI CIDADES FORMULAS: CONTI.VALORES/ MÁXIMOSES/ ÍNDICE.
+# Atividade 3: BANCO DE DADOS VTI;CIDADES FORMULAS: CONTI.VALORES/ MÁXIMOSES/ ÍNDICE.
 <img width="1050" height="753" alt="Captura de tela 2025-11-14 215230" src="https://github.com/user-attachments/assets/023403dc-56a4-4fd2-be49-c88440da2986" />
 
 
