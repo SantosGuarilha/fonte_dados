@@ -1,7 +1,10 @@
-# fonte_dados
+# banco_dados
 # Aula de Fontes de Informações e Banco de Dados
 # Atividade: Apresentação em grupo; utilizamos o software Power Point
 <img width="1359" height="765" alt="image" src="https://github.com/user-attachments/assets/10d3b72d-0e11-4aa4-9fe2-751c62ad77db" />
+
+# Aula VTI TABELA DINÂMICA
+<img width="1181" height="764" alt="Captura de tela 2025-11-14 214308" src="https://github.com/user-attachments/assets/86a15a0d-def7-41d3-94c7-5e05b151ac83" />
 
 # Aula de Fontes de Informações e Banco de Dados
 # Atividade: Venda de Sorvete Colab
