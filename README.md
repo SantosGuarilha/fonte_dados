@@ -10,6 +10,11 @@
 # Aula VTI CIDADES FORMULAS: CONTI.VALORES/ MÁXIMOSES/ ÍNDICE.
 <img width="1050" height="753" alt="Captura de tela 2025-11-14 215230" src="https://github.com/user-attachments/assets/023403dc-56a4-4fd2-be49-c88440da2986" />
 
+# Aula Tratamento de dados POWER BI
+[Bandeiras_Paises.xlsx](https://github.com/user-attachments/files/23557573/Bandeiras_Paises.xlsx)
+
+
+
 
 # Aula de Fontes de Informações e Banco de Dados
 # Atividade: Venda de Sorvete Colab
