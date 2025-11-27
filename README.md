@@ -12,8 +12,8 @@
 <img width="1050" height="753" alt="Captura de tela 2025-11-14 215230" src="https://github.com/user-attachments/assets/023403dc-56a4-4fd2-be49-c88440da2986" />
 
 # Aula de Fontes de Informações e Bancos de Dados
-# Atividade: Tratamento de dados POWER BI
-[Bandeiras_Paises.xlsx](https://github.com/user-attachments/files/23557573/Bandeiras_Paises.xlsx)
+# Atividade: Bandeira de países
+<img width="1946" height="771" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c5ad4e23-cedf-45b6-9c7b-fb24d24c9b4a" />
 
 # Aula de Fontes de Informações e Bancos de Dados
 # Atividade: Maiores Parceiros Comerciais do Brasil
