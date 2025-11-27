@@ -15,6 +15,11 @@
 # Atividade: Tratamento de dados POWER BI
 [Bandeiras_Paises.xlsx](https://github.com/user-attachments/files/23557573/Bandeiras_Paises.xlsx)
 
+# Aula de Fontes de Informações e Bancos de Dados
+# Atividade: Maiores Parceiros Comerciais do Brasil
+<img width="1990" height="972" alt="Screenshot_2" src="https://github.com/user-attachments/assets/43570b91-7f77-4ddc-a64d-f0ec9d9f29e7" />
+
+
 # Aula de Fontes de Informações e Banco de Dados
 # Atividade : EXCEL FORMULA "SOMASE" e "GRAFICO E TABELA DINÂMICA"
 <img width="1947" height="918" alt="SOMASE GRAFICO IMAGEM" src="https://github.com/user-attachments/assets/29beb99c-a8ec-4b7d-a385-e0a4cd0228b1" />
