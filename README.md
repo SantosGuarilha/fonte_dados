@@ -19,6 +19,11 @@
 # Atividade: Maiores Parceiros Comerciais do Brasil
 <img width="1990" height="972" alt="Screenshot_2" src="https://github.com/user-attachments/assets/43570b91-7f77-4ddc-a64d-f0ec9d9f29e7" />
 
+# Aula de Fontes de Informações e Bancos de Dados
+# Atividade: Bandeiras Estados Brasileiros
+<img width="1162" height="789" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b363e187-2f12-483f-a41c-92150b611fbc" />
+
+
 
 # Aula de Fontes de Informações e Banco de Dados
 # Atividade : EXCEL FORMULA "SOMASE" e "GRAFICO E TABELA DINÂMICA"
