@@ -43,3 +43,8 @@
 # Aula de Fontes de Informações e Banco de Dados.
 # Atividade 11: Planilha linha Regressão "SALARY" Excel.
 <img width="1903" height="918" alt="IMAGEM_REGRESSAO_LINEAR_SALARY_EXCEL" src="https://github.com/user-attachments/assets/82120cf5-a4e9-4931-8c58-cf8c0e4ae18d" />
+
+# Aula de Fontes de Indormações e Bancos de dados.
+# Atividade 12: Prova, Dashboard PMS (SEADE).
+<img width="1908" height="904" alt="Captura de tela 2025-11-28 221320" src="https://github.com/user-attachments/assets/b221ac8b-e083-4777-ba67-ebaff32ba2d8" />
+
