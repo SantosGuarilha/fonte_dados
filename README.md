@@ -47,4 +47,6 @@
 # Aula de Fontes de Indormações e Bancos de dados.
 # Atividade 12: Prova, Dashboard PMS (SEADE).
 <img width="1908" height="904" alt="Captura de tela 2025-11-28 221320" src="https://github.com/user-attachments/assets/b221ac8b-e083-4777-ba67-ebaff32ba2d8" />
+# Vídeo da Dashboard:
+[Gravando prova 2025-11-28 224119.zip](https://github.com/user-attachments/files/23831036/Gravando.prova.2025-11-28.224119.zip)
 
